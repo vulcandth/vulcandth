@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vulcandth
 - 👀 I’m interested in working on simple and fun projects in my free time.
-- 🌱 I’m currently learning assembly language and Pokemon Rom Hacking.
+- 🌱 I’m currently learning RGBASM and Pokemon Rom Hacking.
 - 💞️ I’m looking to collaborate on Pokemon Rom Hacks.
 - 📫 How to reach me: vulcandth@gmail.com
 
